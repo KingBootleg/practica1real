@@ -6,6 +6,10 @@ body {
 
 h1, h2, h3, h4 {
     color: brown;
+    border: 2px dotted white;
+    padding: 10px;
+    border-radius: 8px;
+    display: inline-block;
 }
 
 p {
