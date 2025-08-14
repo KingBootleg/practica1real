@@ -1,0 +1,29 @@
+body {
+    background-color: grey ;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1, h2, h3, h4 {
+    color: brown;
+}
+
+p {
+    color: white;
+}
+
+articulo{
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0,0.1);
+}
+ul {
+    list-style-type: square;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 5px;
+}
